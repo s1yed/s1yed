@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s1yed
 - 👀 I’m interested in coding,debugging,developing software etc.
 - 🌱 I’m currently learning Javascript,python.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on programming projects etc.
 - 📫 How to reach me via email:amgame2016@gmail.com
 
 <!---
